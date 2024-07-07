@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9629207b67c257c",
+        "id": "cc7a5365c7a8d4f0",
         "type": "tabs",
         "children": [
           {
-            "id": "0713406b23bd7b57",
+            "id": "f804b121ad1f8219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GreatestCommonDivisorOfStrings/Problem.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e9be9bedb47d3ed4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GreatestCommonDivisorOfStrings/Problem.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GreatestCommonDivisorOfStrings/Problem.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GreatestCommonDivisorOfStrings/Problem.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0713406b23bd7b57",
+  "active": "f804b121ad1f8219",
   "lastOpenFiles": [
+    "tieuDe.css",
+    "samdakviralhit.jpg",
+    "2024-07-07.md",
+    "README.md",
+    "samdak.md",
+    "howtofight.png",
+    "samdak _ viralhit.jpg",
+    "samdak _ viral hit.jpg",
+    "Ảnh chụp màn hình 2024-07-07 093546.png",
+    "Viral-Hit-Image.webp",
+    "Viral-Hit-Image.webp.crdownload",
+    "KidsWithTheGreatestNumberOfCandies/problem.md",
     "GreatestCommonDivisorOfStrings/Problem.md",
     "MergeStringsAlternately/problem.md"
   ]
