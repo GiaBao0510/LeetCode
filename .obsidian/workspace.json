@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cc7a5365c7a8d4f0",
+        "id": "7b7c553d8e0d2568",
         "type": "tabs",
         "children": [
           {
-            "id": "f804b121ad1f8219",
+            "id": "9429ae042e1d3e43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f804b121ad1f8219",
+  "active": "9429ae042e1d3e43",
   "lastOpenFiles": [
+    "CanPlaceFlowers/README.md",
+    "README.md",
     "tieuDe.css",
     "samdakviralhit.jpg",
     "2024-07-07.md",
-    "README.md",
     "samdak.md",
     "howtofight.png",
     "samdak _ viralhit.jpg",
