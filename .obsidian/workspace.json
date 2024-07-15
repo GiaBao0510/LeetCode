@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7c553d8e0d2568",
+        "id": "59a1d336e3bf23a6",
         "type": "tabs",
         "children": [
           {
-            "id": "9429ae042e1d3e43",
+            "id": "6d7e8a7610a7c1b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IncreasingTripletSubsequence/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IncreasingTripletSubsequence/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IncreasingTripletSubsequence/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IncreasingTripletSubsequence/README.md"
+              }
             }
           }
         ]
@@ -138,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9429ae042e1d3e43",
+  "active": "6d7e8a7610a7c1b4",
   "lastOpenFiles": [
+    "BestTimeToBuyAndSellStock/README.md",
+    "TwoSum/README.md",
+    "ReverseWordsInAString/README.md",
     "CanPlaceFlowers/README.md",
     "README.md",
     "tieuDe.css",
