@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59a1d336e3bf23a6",
+        "id": "4524677c1588eb06",
         "type": "tabs",
         "children": [
           {
-            "id": "6d7e8a7610a7c1b4",
+            "id": "90058532acbd8608",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IncreasingTripletSubsequence/README.md",
+                "file": "ProductOfArrayExceptSelf/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IncreasingTripletSubsequence/README.md",
+                "file": "ProductOfArrayExceptSelf/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IncreasingTripletSubsequence/README.md",
+                "file": "ProductOfArrayExceptSelf/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IncreasingTripletSubsequence/README.md"
+                "file": "ProductOfArrayExceptSelf/README.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d7e8a7610a7c1b4",
+  "active": "90058532acbd8608",
   "lastOpenFiles": [
+    "ProductOfArrayExceptSelf/README.md",
+    "ProductOfArrayExceptSelf/solution.js",
+    "ProductOfArrayExceptSelf",
+    "ContainsDuplicate/problems.md",
+    "ContainsDuplicate/README.md",
+    "IncreasingTripletSubsequence/README.md",
     "BestTimeToBuyAndSellStock/README.md",
     "TwoSum/README.md",
     "ReverseWordsInAString/README.md",
