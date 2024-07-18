@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4524677c1588eb06",
+        "id": "3507d1e82907b557",
         "type": "tabs",
         "children": [
           {
-            "id": "90058532acbd8608",
+            "id": "242868b2b8903b6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MoveZeroes/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MoveZeroes/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MoveZeroes/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MoveZeroes/README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90058532acbd8608",
+  "active": "242868b2b8903b6c",
   "lastOpenFiles": [
+    "IsSubsequence/solution.cs",
+    "IsSubsequence/README.md",
+    "MoveZeroes/README.md",
     "ProductOfArrayExceptSelf/README.md",
     "ProductOfArrayExceptSelf/solution.js",
     "ProductOfArrayExceptSelf",
