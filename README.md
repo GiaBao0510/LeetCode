@@ -10,6 +10,4 @@ Join me in winning **leetcode problems** like **Hoobin** wins battles **🦾** i
 - **If** person have ideas, don't hesitate to contribute.
 - Have a nice day 😎🎶🎶🎶
 
-![](samdakviralhit.jpg)
-
 ![](https://media1.tenor.com/m/0IrNGOQ0FDAAAAAC/viral-hit-push-up.gif)
