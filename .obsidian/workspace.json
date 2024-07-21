@@ -11,8 +11,12 @@
             "id": "fe2104307e7ba420",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MaxNumberOfK-SumPairs/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MaxNumberOfK-SumPairs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MaxNumberOfK-SumPairs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MaxNumberOfK-SumPairs/README.md"
+              }
             }
           }
         ]
@@ -140,8 +148,8 @@
   },
   "active": "fe2104307e7ba420",
   "lastOpenFiles": [
-    "ReverseVowelsOfAString/README.md",
     "README.md",
+    "ReverseVowelsOfAString/README.md",
     "ContainerWithMostWater/README.md",
     "IsSubsequence/solution.cs",
     "IsSubsequence/README.md",
