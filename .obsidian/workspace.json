@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MaxNumberOfK-SumPairs/README.md",
+                "file": "MaximumAverageSubarray_1/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MaxNumberOfK-SumPairs/README.md",
+                "file": "MaximumAverageSubarray_1/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MaxNumberOfK-SumPairs/README.md",
+                "file": "MaximumAverageSubarray_1/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MaxNumberOfK-SumPairs/README.md"
+                "file": "MaximumAverageSubarray_1/README.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "fe2104307e7ba420",
   "lastOpenFiles": [
+    "MaxNumberOfK-SumPairs/README.md",
+    "MaximumAverageSubarray_1/solution.cs",
+    "MaximumAverageSubarray_1/README.md",
+    "MaximumAverageSubarray_1",
     "README.md",
     "ReverseVowelsOfAString/README.md",
     "ContainerWithMostWater/README.md",
