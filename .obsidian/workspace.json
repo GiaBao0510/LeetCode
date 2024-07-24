@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4fa96f4eb2bebc97",
+        "id": "1943627b2c2501f4",
         "type": "tabs",
         "children": [
           {
-            "id": "fe2104307e7ba420",
+            "id": "85621934111272bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MaximumAverageSubarray_1/README.md",
+                "file": "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MaximumAverageSubarray_1/README.md",
+                "file": "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MaximumAverageSubarray_1/README.md",
+                "file": "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MaximumAverageSubarray_1/README.md"
+                "file": "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe2104307e7ba420",
+  "active": "85621934111272bb",
   "lastOpenFiles": [
+    "MaximumAverageSubarray_1/README.md",
     "MaxNumberOfK-SumPairs/README.md",
     "MaximumAverageSubarray_1/solution.cs",
-    "MaximumAverageSubarray_1/README.md",
     "MaximumAverageSubarray_1",
     "README.md",
     "ReverseVowelsOfAString/README.md",
