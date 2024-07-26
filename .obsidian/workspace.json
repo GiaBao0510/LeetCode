@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1943627b2c2501f4",
+        "id": "59d37c863e3d5b3b",
         "type": "tabs",
         "children": [
           {
-            "id": "85621934111272bb",
+            "id": "7c9acfb9080c0078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md",
+                "file": "MaxConsecutiveOnes_III.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e9be9bedb47d3ed4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md",
+                "file": "MaxConsecutiveOnes_III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md",
+                "file": "MaxConsecutiveOnes_III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md"
+                "file": "MaxConsecutiveOnes_III.md"
               }
             }
           }
@@ -146,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85621934111272bb",
+  "active": "7c9acfb9080c0078",
   "lastOpenFiles": [
+    "MaxConsecutiveOnes_III.md",
+    "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md",
     "MaximumAverageSubarray_1/README.md",
     "MaxNumberOfK-SumPairs/README.md",
     "MaximumAverageSubarray_1/solution.cs",
