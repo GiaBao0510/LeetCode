@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59d37c863e3d5b3b",
+        "id": "b84db3b2dc472584",
         "type": "tabs",
         "children": [
           {
-            "id": "7c9acfb9080c0078",
+            "id": "c51fe5440ce03955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MaxConsecutiveOnes_III.md",
+                "file": "LongestSubarrayOf1'sAfterDeletingOneElement.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MaxConsecutiveOnes_III.md",
+                "file": "LongestSubarrayOf1'sAfterDeletingOneElement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MaxConsecutiveOnes_III.md",
+                "file": "LongestSubarrayOf1'sAfterDeletingOneElement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MaxConsecutiveOnes_III.md"
+                "file": "LongestSubarrayOf1'sAfterDeletingOneElement.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c9acfb9080c0078",
+  "active": "c51fe5440ce03955",
   "lastOpenFiles": [
+    "LongestSubarrayOf1'sAfterDeletingOneElement.md",
     "MaxConsecutiveOnes_III.md",
     "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md",
     "MaximumAverageSubarray_1/README.md",
