@@ -29,27 +29,32 @@ Return _the size of the longest non-empty subarray containing only_ `1`_'s in 
 ```
 public int LongestSubarray(int[] nums)
 {
-    int left = 0,
-          count_zero = 0,
-          MaxLength = 0;
+    int left = 0,          //Duyệt từ trái qua
+          count_zero = 0,  //Đếm số lượng số 0 xuất hiện
+          MaxLength = 0;   //Trả về chiều dài tối đa của 1 khi tìm được
 
+    //Vòng lặp này duyệt phần tử từ đầu đến cuối
     for (int right = 0; right < nums.Length; right++) {
+        //Nếu phần tử đang duyệt là 0 thì tăng biến count_zero lên 1 đơn vị
         if (nums[right] == 0)
         {
             count_zero++;
         }
+
+	     //Khi mà biến count_zero > 1 thì duyệt chỉ số Left đang xét phía sau
         while (count_zero > 1)
         {
-            if (nums[left] == 0)
+            if (nums[left] == 0)  //Nếu giá trị tại Left là 0 thì giảm giá trị biến count_zero đi 1 đơn vị
             {
                 count_zero--;
             }
             left++;
           }
-        
+
+		//Lấy giá trị max giữa chính nó và right - left
         MaxLength = Math.Max(MaxLength, right - left);
     }
     Console.WriteLine("Output: {0}",MaxLength);
-    return MaxLength;
+    return MaxLength; //Kết quả
 }
 ```
