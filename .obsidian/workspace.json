@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b84db3b2dc472584",
+        "id": "7484ef859da43c23",
         "type": "tabs",
         "children": [
           {
-            "id": "c51fe5440ce03955",
+            "id": "0275d827817e2637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LongestSubarrayOf1'sAfterDeletingOneElement.md",
+                "file": "FindTheHighestAltitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LongestSubarrayOf1'sAfterDeletingOneElement.md",
+                "file": "FindTheHighestAltitude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LongestSubarrayOf1'sAfterDeletingOneElement.md",
+                "file": "FindTheHighestAltitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LongestSubarrayOf1'sAfterDeletingOneElement.md"
+                "file": "FindTheHighestAltitude.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c51fe5440ce03955",
+  "active": "0275d827817e2637",
   "lastOpenFiles": [
+    "FindTheHighestAltitude.md",
     "LongestSubarrayOf1'sAfterDeletingOneElement.md",
     "MaxConsecutiveOnes_III.md",
     "MaximumNumberOfVowelsInASubstringOfGivenLength/README.md",
