@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7484ef859da43c23",
+        "id": "23f239d9d7d079f7",
         "type": "tabs",
         "children": [
           {
-            "id": "0275d827817e2637",
+            "id": "e4aa1fcfcffcace6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FindTheHighestAltitude.md",
+                "file": "FindPivotIndex.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FindTheHighestAltitude.md",
+                "file": "FindPivotIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FindTheHighestAltitude.md",
+                "file": "FindPivotIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FindTheHighestAltitude.md"
+                "file": "FindPivotIndex.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0275d827817e2637",
+  "active": "e4aa1fcfcffcace6",
   "lastOpenFiles": [
+    "FindPivotIndex.md",
     "FindTheHighestAltitude.md",
     "LongestSubarrayOf1'sAfterDeletingOneElement.md",
     "MaxConsecutiveOnes_III.md",
