@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f58d3d99efba4c8",
+        "id": "9832b5ffdffc7976",
         "type": "tabs",
         "children": [
           {
-            "id": "5a66f911725666cb",
+            "id": "8d0f9e5dacbbecd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UniqueNumberOfOccurrences.md",
+                "file": "DetermineIfTwoStringsAreClose.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UniqueNumberOfOccurrences.md",
+                "file": "DetermineIfTwoStringsAreClose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UniqueNumberOfOccurrences.md",
+                "file": "DetermineIfTwoStringsAreClose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UniqueNumberOfOccurrences.md"
+                "file": "DetermineIfTwoStringsAreClose.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a66f911725666cb",
+  "active": "8d0f9e5dacbbecd4",
   "lastOpenFiles": [
+    "DetermineIfTwoStringsAreClose.md",
     "UniqueNumberOfOccurrences.md",
     "FindTheDifferenceOfTwoArrays.md",
     "FindPivotIndex.md",
@@ -186,7 +187,6 @@
     "Ảnh chụp màn hình 2024-07-07 093546.png",
     "Viral-Hit-Image.webp",
     "Viral-Hit-Image.webp.crdownload",
-    "KidsWithTheGreatestNumberOfCandies/problem.md",
-    "GreatestCommonDivisorOfStrings/Problem.md"
+    "KidsWithTheGreatestNumberOfCandies/problem.md"
   ]
 }
