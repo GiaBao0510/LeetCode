@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9fec3fe74262e0ea",
+        "id": "628373979d360185",
         "type": "tabs",
         "children": [
           {
-            "id": "065968cac838366a",
+            "id": "d79ccb001e5589a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RemovingStarsFromAString.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e9be9bedb47d3ed4",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RemovingStarsFromAString.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RemovingStarsFromAString.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RemovingStarsFromAString.md"
+              }
             }
           }
         ]
@@ -139,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "065968cac838366a",
+  "active": "d79ccb001e5589a4",
   "lastOpenFiles": [
+    "RemovingStarsFromAString.md",
     "EqualRowAndColumnPairs.md",
     "DetermineIfTwoStringsAreClose.md",
     "UniqueNumberOfOccurrences.md",
@@ -173,7 +181,6 @@
     "tieuDe.css",
     "samdakviralhit.jpg",
     "2024-07-07.md",
-    "samdak.md",
     "howtofight.png",
     "samdak _ viralhit.jpg",
     "samdak _ viral hit.jpg",
